@@ -211,32 +211,32 @@ body {
 }
 
 .main_slide_ad_1 {
-    background: url(./main_slide_ad_1.jpg) no-repeat center center;
+    background: url(../imgs/main_ad_slide/main_slide_ad_1.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .main_slide_ad_2 {
-    background: url(./main_slide_ad_2.jpg) no-repeat center center;
+    background: url(../imgs/main_ad_slide/main_slide_ad_2.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .main_slide_ad_3 {
-    background: url(./main_slide_ad_3.jpg) no-repeat center center;
+    background: url(../imgs/main_ad_slide/main_slide_ad_3.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .main_slide_ad_4 {
-    background: url(./main_slide_ad_4.jpg) no-repeat center center;
+    background: url(../imgs/main_ad_slide/main_slide_ad_4.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .main_slide_ad_5 {
-    background: url(./main_slide_ad_5.jpg) no-repeat center center;
+    background: url(../imgs/main_ad_slide/main_slide_ad_5.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .main_slide_ad_6 {
-    background: url(./main_slide_ad_6.jpg) no-repeat center center;
+    background: url(../imgs/main_ad_slide/main_slide_ad_6.jpg) no-repeat center center;
     background-size: cover;
 }
 
